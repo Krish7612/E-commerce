@@ -1,0 +1,10 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Maven / build output
+target/
+out/
+
+# Local database configuration (DO NOT COMMIT)
+src/main/resources/db.properties
