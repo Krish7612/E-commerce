@@ -3,6 +3,7 @@ A fully functional E-Commerce Web Application built with Java (Servlets), JSP, J
 Users can browse products, register/login, manage cart, checkout, and place orders.
 Admins can manage products, view orders, and control inventory.
 =============================================
+#TO OPEN WEBSITE YOU WILL NEED TO FOLLOW RUN INSTRUCTIONS GIVEN BELOW, THEN OPEN THE LINK(Example----->http://localhost:8080/ECommerceShop/)
 
 🚀 Features Overview
 🧑‍💻 User Features
@@ -21,13 +22,13 @@ Admins can manage products, view orders, and control inventory.
 
 🧰 Tech Stack Used
 Layer	                       Technologies
-Frontend	                   HTML, CSS, JSP
-Backend	                     Java (OOP), Servlets
-Database	                   MySQL + JDBC
-Server	                     Apache Tomcat 9
+Frontend	                    HTML, CSS, JSP
+Backend	                    Java (OOP), Servlets
+Database	                    MySQL + JDBC
+Server	                    Apache Tomcat 9
 Build Tool	                 Maven
-Security	                   Session-based Authentication
-IDE	                         IntelliJ IDEA
+Security	                    Session-based Authentication
+IDE	                       IntelliJ IDEA
 
 
 🖥️ Running Instructions
@@ -57,15 +58,14 @@ IDE	                         IntelliJ IDEA
 
 
 Install Required Software
-Software	              Install Link
+Software	               Install Link
 Java JDK 8+	            https://adoptopenjdk.net
 
 MySQL	                  https://dev.mysql.com/downloads/installer/
 
-Tomcat 9	              https://tomcat.apache.org/download-90.cgi
+Tomcat 9	               https://tomcat.apache.org/download-90.cgi
 
-IntelliJ IDEA	          https://www.jetbrains.com/idea/download/
-
+IntelliJ IDEA	         https://www.jetbrains.com/idea/download/
 
 
 📜 License
