@@ -1,4 +1,5 @@
 🛍️ECommerceShop - Java, Servlets, JSP, JDBC, MySQL
+
 A fully functional E-Commerce Web Application built with Java (Servlets), JSP, JDBC, MySQL, and deployed using Tomcat 9.
 Users can browse products, register/login, manage cart, checkout, and place orders.
 Admins can manage products, view orders, and control inventory.
